@@ -1,0 +1,10 @@
+D:\C#\0831Hw\ch10Hw\ComputerScience\bin\Debug\ComputerScience.exe.config
+D:\C#\0831Hw\ch10Hw\ComputerScience\bin\Debug\ComputerScience.exe
+D:\C#\0831Hw\ch10Hw\ComputerScience\bin\Debug\ComputerScience.pdb
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.csprojResolveAssemblyReference.cache
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.Form1.resources
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.Properties.Resources.resources
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.csproj.GenerateResource.Cache
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.csproj.CoreCompileInputs.cache
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.exe
+D:\C#\0831Hw\ch10Hw\ComputerScience\obj\Debug\ComputerScience.pdb
